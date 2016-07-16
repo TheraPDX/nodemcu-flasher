@@ -1,6 +1,8 @@
 NodeMCU Flasher
 ===============
 
+BUILD CUSTOM FIRMWARE HERE - http://nodemcu-build.com/index.php
+
 NodeMCU flasher is a firmware programmer for NodeMCU DEVKIT V0.9.
 
 You can use it to program NodeMCU DEVKIT or your own ESP8266 board.
